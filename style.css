@@ -46,3 +46,9 @@ h1 {
   font-weight: bold;
   color: #ccc;
 }
+
+.body_autor{
+    position: absolute; 
+    bottom: 10px; left: 10px;
+    font-size: 12px;
+}
